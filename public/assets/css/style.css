@@ -1,0 +1,13 @@
+
+
+@media(max-width: 400px){
+    .fc-col-header-cell-cushion{
+        font-size: 11px !important;
+    }
+}
+
+.fc-col-header-cell-cushion{
+    font-weight: lighter !important;
+    text-decoration: none !important;
+    color: #212529 !important;
+}
